@@ -1,0 +1,51 @@
+.sideBG{
+background-color: white;
+width: 16%;
+margin-right: 33%;
+box-sizing: border-box;
+float: right;
+padding-left: 1%;
+
+}
+.sideTextStyle{
+    border-bottom: 3px solid rgb(163, 163, 163);
+    margin-right: 10%;
+    padding-left:10px;
+    font-size:30px;
+}
+
+.sideTextStyleTwo{
+    border-bottom: 3px solid rgb(216, 216, 216);
+    padding-top: 5px;
+    margin-right: 1%;  
+    padding-bottom: 10px;
+}
+
+.textStyling{
+    color:black;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.Header{ 
+ font-size: 18px;
+ width: 350px;
+ padding-left: 5%;
+}
+
+.HeaderOne{
+    padding-top: 10px;
+    color:black;
+    font-weight: 600;
+    font-size:25px;
+   }
+.HeaderTwo{
+ color:black;
+ font-weight: 400;
+ font-size:15px;
+ padding-right: 10px;
+}
+.orderedList{
+ color: blue;  
+ font-size: 30px; 
+}

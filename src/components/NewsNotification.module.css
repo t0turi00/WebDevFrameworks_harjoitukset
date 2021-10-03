@@ -1,0 +1,35 @@
+.header{
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+
+.container {
+  background-color: rgba(65,150,164); 
+  color: white;
+  padding: 20px;
+  margin-bottom: 5px;
+  margin-top:15px; 
+  margin-left: 20%;
+  margin-right: 33%; 
+}
+
+.headerTwo {
+  font-size: 18px;
+  font-weight: 700;
+  
+}
+
+.containerTwo {
+background-color: rgba(65,150,164); 
+color: white;
+padding: 20px;
+margin-bottom: 5px;
+margin-left: 20%;
+margin-right: 33%;
+}
+
+
+
+
+

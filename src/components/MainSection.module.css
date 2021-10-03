@@ -1,0 +1,88 @@
+.mainSectionBackground{
+    background-color: white; 
+    width: 30%;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 20%;
+    font-weight: 700;
+    padding-left: 20px;
+    font-size: 40px;
+    border-top: 1px solid black;
+}
+.HS{
+  color: rgb(223, 13, 13); 
+  font-size: 20px;;
+}
+.Header{
+    overflow: hidden;
+    font-weight: 700;
+}
+.HeaderTwo{
+   color:blue;
+   font-size: 30px;
+   font-weight: 700;
+ }
+
+.HeaderThree{
+    color:black;
+    font-size: 30px;
+    font-weight: 700;
+    
+ }
+
+ .HeaderFour{
+    padding-top: 20px;
+    color:black;
+    font-size: 20px;
+    font-weight: 700;
+ }
+ .HF{
+    padding-left: 60px;
+    padding-right: 30px;
+    color:black;
+    font-size: 40px;
+    font-weight: 600;
+ }
+ .HSX{
+    padding-left: 130px;
+    padding-right: 30px;
+    color:black;
+    font-size: 40px;
+    font-weight: 600;
+ }
+ .HSTH{
+    padding-left: 150px;
+    padding-right: 30px;
+    color:black;
+    font-size: 40px;
+    font-weight: 600;
+ }
+
+ .HSXTwo{
+    padding-left: 160px;
+    padding-right: 30px;
+    color:black;
+    font-size: 40px;
+    font-weight: 600;
+ }
+ .HSTHTwo{
+    padding-left: 190px;
+    padding-right: 30px;
+    color:black;
+    font-size: 40px;
+    font-weight: 600;
+ }
+ .tableHeader{
+    font-size: 32px; 
+    font-weight: 400;
+ }
+
+ .tableHeaderTwo{
+    padding-left: 50px;
+    font-size: 32px; 
+    font-weight: 400;
+ }
+.TriangleColor{
+    color:red;
+    font-size: 32px; 
+}
